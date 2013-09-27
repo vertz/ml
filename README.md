@@ -1,4 +1,4 @@
-machine learning - coursera
+machine learning 
 ==
 
 Programming Exercise 1 
